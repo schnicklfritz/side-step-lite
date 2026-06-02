@@ -1,0 +1,16 @@
+.env
+*.log
+*.tmp
+*.swp
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.vscode/
+.idea/
+models/
+checkpoints/
+workspace/
+output/
+input/

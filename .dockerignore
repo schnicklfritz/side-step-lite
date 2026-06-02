@@ -1,0 +1,13 @@
+.git
+.github
+*.log
+*.tmp
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+models/
+checkpoints/
+workspace/
+output/
+input/
